@@ -1,2 +1,6 @@
 file number 1
+<<<<<<< HEAD
 eeeeeeeeeeeeeeeeeeeeee
+=======
+CONFLICT
+>>>>>>> dev-yaroslav
